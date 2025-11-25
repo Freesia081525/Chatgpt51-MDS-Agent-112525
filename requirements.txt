@@ -1,0 +1,7 @@
+streamlit
+pyyaml
+google-genai
+openai
+xai_sdk
+plotly
+PyPDF2
